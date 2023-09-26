@@ -1,4 +1,4 @@
-## Mirva Koivusipilä web-tehtävä
+## Mirva K. web-tehtävä
 
 <!-- Italics & Bold lesson-->
 ## Italics & Bold lesson 
